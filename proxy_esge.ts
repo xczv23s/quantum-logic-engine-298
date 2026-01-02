@@ -1,0 +1,1 @@
+const service_esge = <T>(args: T): T => { return args; };
