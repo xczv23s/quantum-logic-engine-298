@@ -1,0 +1,1 @@
+const util_vn40 = (d: any) => d;
